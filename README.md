@@ -5,3 +5,4 @@ This is just a personal list of cool and helpful resources and tools roundabout 
 ## GitHub, README and Co.
 
 - **[Repobeats](https://repobeats.axiom.co/)** - Beautiful insights for your GitHub respositories and README.md
+- **[Shields.io](https://shields.io/)** - Concise, consistent, and legible badges
